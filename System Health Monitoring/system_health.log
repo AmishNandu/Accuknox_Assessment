@@ -1,0 +1,6 @@
+2024-06-10 19:28:42,487 - INFO - Starting system health check...
+2024-06-10 19:28:43,488 - INFO - CPU usage : 1.9%
+2024-06-10 19:28:43,491 - INFO - Memory usage : 70.7%
+2024-06-10 19:28:43,491 - INFO - Disk usage : 77.7%
+2024-06-10 19:28:43,499 - INFO - Running processes count: 298
+2024-06-10 19:28:43,499 - INFO - System health check completed.
